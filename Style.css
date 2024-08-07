@@ -1,0 +1,21 @@
+h1,h2,ul,ol{
+    color:coral;
+    font-size: sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+ul,ol{
+    margin-left: 20%;
+    font-size: 25px;
+}
+ol{
+    margin-left: 20%;
+}
+a{
+    color:rgb(221, 81, 31);
+}
